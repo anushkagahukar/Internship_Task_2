@@ -41,6 +41,7 @@
 Clone the repository:
 ```bash
 git clone https://github.com/anushkagahukar/Internship_Task_2.git
+```
 
 
 ✍️ Author
