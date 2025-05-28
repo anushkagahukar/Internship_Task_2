@@ -42,7 +42,11 @@ Clone the repository:
 ```bash
 git clone https://github.com/anushkagahukar/Internship_Task_2.git
 ```
-
+✍️ Author
+Anushka Gahukar
+📍 Task completed under ApexPlanet
+📧 anushkagahukar@gmail.com
+🔗 LinkedIn
 
 ### ✍️ Author
 -- Anushka Gahukar
